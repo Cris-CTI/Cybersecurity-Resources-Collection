@@ -5,20 +5,20 @@
 A curated collection of **tools, websites, and resources** for Cybersecurity, OSINT, Pentesting, Bug Bounty, and Malware Analysis.
 
 ---
-## 📌 Table of Contents
-- [🛠️ General Utilities](#️-general-utilities)
+## 📌 Table of contents
+- [🛠️ General utilities](#️-general-utilities)
 - [🕵️ OSINT](#-osint)
-- [🌍 Internet Scanners](#-internet-scanners)
-- [🔑 Breaches & Credentials](#-breaches--credentials)
+- [🌍 Internet scanners](#-internet-scanners)
+- [🔑 Breaches & credentials](#-breaches--credentials)
 - [🐞 Pentesting & Bug Bounty](#-pentesting--bug-bounty)
-- [🦠 Malware & Analysis](#-malware--analysis)
-- [🛡️ Privacy & Browsers](#️-privacy--browsers)
-- [📚 Knowledge & Documentation](#-knowledge--documentation)
-- [🧹 Data Cleanup](#-data-cleanup)
+- [🦠 Malware & analysis](#-malware--analysis)
+- [🛡️ Privacy & browsers](#️-privacy--browsers)
+- [📚 Knowledge & documentation](#-knowledge--documentation)
+- [🧹 Data cleanup](#-data-cleanup)
 
 ---
 
-## 🛠️ General Utilities
+## 🛠️ General utilities
 | Tool | Description |
 |------|-------------|
 | [ExplainShell](https://explainshell.com) | Explains shell commands. |
@@ -48,7 +48,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🌍 Internet Scanners
+## 🌍 Internet scanners
 | Tool | Description |
 |------|-------------|
 | [Sploitus](https://sploitus.com) | Exploit and security tool search engine. |
@@ -58,7 +58,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🔑 Breaches & Credentials
+## 🔑 Breaches & credentials
 | Tool | Description |
 |------|-------------|
 | [HaveIBeenPwned](https://haveibeenpwned.com/) | Check if your email has been breached. |
@@ -84,7 +84,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🦠 Malware & Analysis
+## 🦠 Malware & analysis
 | Tool | Description |
 |------|-------------|
 | [IppSec Rocks](https://ippsec.rocks/) | Search techniques across IppSec videos. |
@@ -99,7 +99,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🛡️ Privacy & Browsers
+## 🛡️ Privacy & browsers
 | Tool | Description |
 |------|-------------|
 | [Cover Your Tracks](https://coveryourtracks.eff.org/) | Check how trackable your browser is. |
@@ -121,7 +121,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🧹 Data Cleanup
+## 🧹 Data cleanup
 | Tool | Description |
 |------|-------------|
 | [JustDeleteMe](https://justdeleteme.xyz/) | Guides to delete accounts from websites. |
