@@ -1,4 +1,5 @@
 <img width="1920" height="1080" alt="Blue Futuristic Cyber Security Presentation" src="https://github.com/user-attachments/assets/a68f6453-79e6-4c9e-a67a-1cf105ed0269" />
+
 # Cybersecurity-Resources-Collection
 A curated collection of **tools, websites, and resources** for Cybersecurity, OSINT, Pentesting, Bug Bounty, and Malware Analysis.
 
