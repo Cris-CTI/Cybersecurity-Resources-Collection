@@ -1,4 +1,4 @@
-<img width="900" height="300" alt="Cybersecurity resources collection criscti" src="https://github.com/user-attachments/assets/c0e90981-46a5-43cc-9755-70da2ccf8850" />
+<img width="933" height="382" alt="CTI ç" src="https://github.com/user-attachments/assets/1a2db3b7-b1cc-4fa9-bbc7-8e22265ad59d" />
 
 
 # Cybersecurity-Resources-Collection
