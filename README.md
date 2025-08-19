@@ -1,4 +1,4 @@
-<img width="800" height="300" alt="Diseño sin título" src="https://github.com/user-attachments/assets/67a89a53-9a2e-462e-9df1-1991aa64045c" />
+<img width="900" height="300" alt="Cybersecurity resources collection criscti" src="https://github.com/user-attachments/assets/c0e90981-46a5-43cc-9755-70da2ccf8850" />
 
 
 # Cybersecurity-Resources-Collection
