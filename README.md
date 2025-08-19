@@ -18,11 +18,13 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 ---
 
 ## 🛠️ General Utilities
-- [ExplainShell](https://explainshell.com) - Explains shell commands.  
-- [ShellCheck](https://www.shellcheck.net/) - Finds bugs in bash scripts.  
-- [CyberChef](https://gchq.github.io/CyberChef/) - Data analysis, encoding/decoding, encryption.  
-- [Request Inspector](https://requestinspector.com/) - HTTP request analysis.  
-- [Nmap Formatter](https://nmapformatter.com/) - Convert NMAP results into different formats.  
+| Tool | Description |
+|------|-------------|
+| [ExplainShell](https://explainshell.com) | Explains shell commands. |
+| [ShellCheck](https://www.shellcheck.net/) | Finds bugs in bash scripts. |
+| [CyberChef](https://gchq.github.io/CyberChef/) | Data analysis, encoding/decoding, encryption. |
+| [Request Inspector](https://requestinspector.com/) | HTTP request analysis. |
+| [Nmap Formatter](https://nmapformatter.com/) | Convert NMAP results into different formats. |
 
 ---
 
