@@ -5,20 +5,20 @@
 A curated collection of **tools, websites, and resources** for Cybersecurity, OSINT, Pentesting, Bug Bounty, and Malware Analysis.
 
 ---
-## 📌 Table of contents
-- [🛠️ General utilities](#️-general-utilities)
-- [🕵️ OSINT](#-osint)
-- [🌍 Internet scanners](#-internet-scanners)
-- [🔑 Breaches & credentials](#-breaches--credentials)
-- [🐞 Pentesting & Bug Bounty](#-pentesting--bug-bounty)
-- [🦠 Malware & analysis](#-malware--analysis)
-- [🛡️ Privacy & browsers](#️-privacy--browsers)
-- [📚 Knowledge & documentation](#-knowledge--documentation)
-- [🧹 Data cleanup](#-data-cleanup)
+## Table of contents
+- [General utilities](#️-general-utilities)
+- [OSINT](#-osint)
+- [Internet scanners](#-internet-scanners)
+- [Breaches & credentials](#-breaches--credentials)
+- [Pentesting & Bug Bounty](#-pentesting--bug-bounty)
+- [Malware & analysis](#-malware--analysis)
+- [Privacy & browsers](#️-privacy--browsers)
+- [Knowledge & documentation](#-knowledge--documentation)
+- [Data cleanup](#-data-cleanup)
 
 ---
 
-## 🛠️ General utilities
+## General utilities
 | Tool | Description |
 |------|-------------|
 | [ExplainShell](https://explainshell.com) | Explains shell commands. |
@@ -29,7 +29,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🕵️ OSINT
+## OSINT
 | Tool | Description |
 |------|-------------|
 | [Hunter](https://hunter.io) | Find company email addresses. |
@@ -48,7 +48,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🌍 Internet scanners
+## Internet scanners
 | Tool | Description |
 |------|-------------|
 | [Sploitus](https://sploitus.com) | Exploit and security tool search engine. |
@@ -58,7 +58,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🔑 Breaches & credentials
+## Breaches & credentials
 | Tool | Description |
 |------|-------------|
 | [HaveIBeenPwned](https://haveibeenpwned.com/) | Check if your email has been breached. |
@@ -70,7 +70,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🐞 Pentesting & Bug Bounty
+## Pentesting & Bug Bounty
 | Tool | Description |
 |------|-------------|
 | [ctf-katana](https://github.com/JohnHammond/ctf-katana) | CTF tools and cheatsheet. |
@@ -84,7 +84,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🦠 Malware & analysis
+## Malware & analysis
 | Tool | Description |
 |------|-------------|
 | [IppSec Rocks](https://ippsec.rocks/) | Search techniques across IppSec videos. |
@@ -99,7 +99,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🛡️ Privacy & browsers
+## Privacy & browsers
 | Tool | Description |
 |------|-------------|
 | [Cover Your Tracks](https://coveryourtracks.eff.org/) | Check how trackable your browser is. |
@@ -110,7 +110,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 📚 Knowledge & Documentation
+## Knowledge & Documentation
 | Tool | Description |
 |------|-------------|
 | [C2 Panels](https://github.com/xrkk/C2-panels) | List of known C2 panels. |
@@ -121,7 +121,7 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 
-## 🧹 Data cleanup
+## Data cleanup
 | Tool | Description |
 |------|-------------|
 | [JustDeleteMe](https://justdeleteme.xyz/) | Guides to delete accounts from websites. |
