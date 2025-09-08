@@ -6,15 +6,15 @@ A curated collection of **tools, websites, and resources** for Cybersecurity, OS
 
 ---
 ## Table of contents
-- [General utilities]
-- [OSINT]
-- [Internet scanners]
-- [Breaches & credentials]
-- [Pentesting & Bug Bounty]
-- [Malware & analysis]
-- [Privacy & browsers]
-- [Knowledge & documentation]
-- [Data cleanup]
+- General utilities
+- OSINT
+- Internet scanners
+- Breaches & credentials
+- Pentesting & Bug Bounty
+- Malware & analysis
+- Privacy & browsers
+- Knowledge & documentation
+- Data cleanup
 
 ---
 
